@@ -18,9 +18,11 @@
 <div style="display: inline_block"><br>
  
 #### Libraries
+<img align="center" alt="kaiodiniz1-Pandas" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg">
 <img align="center" alt="kaiodiniz1-Scikit" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
 <img align="center" alt="kaiodiniz1-TensorFlow" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg">
 <img align="center" alt="kaiodiniz1-KerasFlow" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg">
+
 
 </div> 
 <div style="display: inline_block"><br>
