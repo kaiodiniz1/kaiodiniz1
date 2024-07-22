@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
  
 <img align="center" alt="kaiodiniz1-AWS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-<img align="center" alt="kaiodiniz1-Azure" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
+<img align="center" alt="kaiodiniz1-Azure" height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
 
 </div> 
 
