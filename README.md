@@ -25,10 +25,11 @@
 #### Cloud Platforms
 <img align="center" alt="kaiodiniz1-AWS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 <img align="center" alt="kaiodiniz1-Azure" height="95" width="95" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
-<img align="center" alt="kaiodiniz1-Azure" height="95" width="95" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
+<img align="center" alt="kaiodiniz1-Google" height="95" width="95" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg">
 
 </div> 
 
+### Socials
 <div> 
  
   <a href = "mailto:kvd.vinicius@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
