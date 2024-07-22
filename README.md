@@ -7,7 +7,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="kaiodiniz1-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="kaiodiniz1-MySQL" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="kaiodiniz1-R" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/r/icons/r/r-original.svg">
+  <img align="center" alt="kaiodiniz1-R" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
  
 </div>
  
