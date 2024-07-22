@@ -7,15 +7,29 @@
 
 #### Programming Languages
 <div style="display: inline_block"><br>
-  <img align="center" alt="kaiodiniz1-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="kaiodiniz1-R" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
+ 
+ <img align="center" alt="kaiodiniz1-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="kaiodiniz1-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg">
+ <img align="center" alt="kaiodiniz1-R" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
   
 </div>
 
+
+<div style="display: inline_block"><br>
+ 
+#### Libraries
+<img align="center" alt="kaiodiniz1-Scikit" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg">
+<img align="center" alt="kaiodiniz1-TensorFlow" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg">
+<img align="center" alt="kaiodiniz1-KerasFlow" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg">
+
+</div> 
 <div style="display: inline_block"><br>
 
 #### Databases
 <img align="center" alt="kaiodiniz1-MySQL" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
+<img align="center" alt="kaiodiniz1-MySQL" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg">
+<img align="center" alt="kaiodiniz1-MySQL" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/cassandra/cassandra-original-wordmark.svg">
+
 
 </div> 
 
