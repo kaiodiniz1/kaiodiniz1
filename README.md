@@ -4,6 +4,8 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kaiodiniz1&show_icons=true&theme=vision-friendly-dark"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiodiniz1&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
+
+#### Languages
 <div style="display: inline_block"><br>
   <img align="center" alt="kaiodiniz1-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="kaiodiniz1-R" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
@@ -13,6 +15,7 @@
 <div style="display: inline_block"><br>
  
 <img align="center" alt="kaiodiniz1-AWS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+<img align="center" alt="kaiodiniz1-Azure" height="95" width="95" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
 <img align="center" alt="kaiodiniz1-Azure" height="95" width="95" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg">
 
 </div> 
