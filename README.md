@@ -10,7 +10,7 @@
   <img align="center" alt="kaiodiniz1-MySQL" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-<div>
+<div style="display: inline_block"><br>
  
 <img align="center" alt="kaiodiniz1-AWS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 
