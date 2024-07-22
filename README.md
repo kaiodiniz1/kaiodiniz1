@@ -8,11 +8,12 @@
   <img align="center" alt="kaiodiniz1-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="kaiodiniz1-R" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
   <img align="center" alt="kaiodiniz1-MySQL" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="kaiodiniz1-AWS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-
+  
+</div>
+<img align="center" alt="kaiodiniz1-AWS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+<div>
  
 </div>
- 
   ##
  
 <div> 
